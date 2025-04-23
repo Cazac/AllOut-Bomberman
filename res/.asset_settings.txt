@@ -1,0 +1,9 @@
+[
+  {
+    "id": "Floors/LightGreyTiled.png",
+    "texture": {
+      "wrap_repeat": true,
+      "pixels_per_unit": 550
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "Floors/DarkGreyTiled.png",
+        "texture": {
+          "wrap_repeat": true,
+          "pixels_per_unit": 300
+        }
+    },
+    {
+        "id": "Floors/DarkGrassTiled.png",
+        "texture": {
+            "wrap_repeat": true,
+            "pixels_per_unit": 100
+        }
+    }
+]

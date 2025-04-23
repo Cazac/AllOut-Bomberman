@@ -1,0 +1,68 @@
+projectile.png
+	size: 652, 652
+	filter: Linear, Linear
+blood2/Blood_1
+	bounds: 302, 520, 123, 115
+	offsets: 1, 1, 125, 117
+	rotate: 90
+blood2/Blood_2
+	bounds: 346, 10, 128, 157
+	offsets: 1, 1, 130, 159
+	rotate: 90
+blood2/Blood_3
+	bounds: 260, 144, 160, 191
+	offsets: 1, 1, 162, 193
+blood2/Blood_4
+	bounds: 426, 151, 108, 160
+	offsets: 1, 2, 110, 163
+bullet projectile1
+	bounds: 6, 11, 264, 39
+bullet ring
+	bounds: 423, 504, 27, 80
+	offsets: 1, 1, 29, 81
+	rotate: 90
+bullet(3)
+	bounds: 578, 85, 56, 39
+	offsets: 1, 1, 58, 41
+explode/Ex_Yellow
+	bounds: 6, 56, 248, 279
+	offsets: 1, 1, 251, 283
+explode/Smoke1
+	bounds: 260, 56, 80, 82
+	offsets: 1, 1, 82, 84
+explode/smokeA
+	bounds: 6, 341, 290, 302
+	offsets: 1, 1, 292, 304
+hit/hit_effect1
+	bounds: 509, 525, 118, 123
+	offsets: 1, 1, 120, 124
+	rotate: 90
+hit/hit_effect2
+	bounds: 302, 341, 157, 162
+	offsets: 1, 1, 159, 163
+	rotate: 90
+hit/hit_effect3
+	bounds: 470, 317, 173, 181
+	offsets: 1, 1, 175, 182
+muzzle_flash_1
+	bounds: 426, 537, 106, 77
+	offsets: 1, 1, 108, 79
+	rotate: 90
+pistol_bullet
+	bounds: 509, 106, 39, 21
+	offsets: 1, 1, 41, 23
+	rotate: 90
+rocket_launcher_bullet
+	bounds: 540, 130, 181, 74
+	offsets: 1, 1, 183, 76
+	rotate: 90
+shotgun_bullet
+	bounds: 578, 52, 50, 27
+	offsets: 1, 1, 52, 29
+slingshot_pellet
+	bounds: 509, 28, 72, 63
+	offsets: 1, 1, 74, 65
+	rotate: 90
+sniper_bullet
+	bounds: 276, 27, 59, 23
+	offsets: 1, 1, 61, 25

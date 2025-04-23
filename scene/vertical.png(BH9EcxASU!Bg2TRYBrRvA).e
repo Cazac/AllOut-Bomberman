@@ -1,0 +1,45 @@
+13
+266287972353
+316457967944852 1744666662565387200
+{
+  "name": "vertical.png",
+  "local_enabled": true,
+  "local_position": {
+    "X": -9.3859663009643555,
+    "Y": -16.1599369049072266
+  },
+  "local_rotation": 0,
+  "local_scale": {
+    "X": 2,
+    "Y": 2
+  },
+  "previous_sibling": "316457967977099:1744666662565396700",
+  "next_sibling": "316457967911030:1744666662565377200",
+  "parent": "329529979596135:1744670509475248200",
+  "linked_prefab": "vertical.png.prefab"
+},
+{
+  "cid": 1,
+  "aoid": "316457969218276:1744666662565762000",
+  "component_type": "Internal_Component",
+  "internal_component_type": "Sprite_Renderer",
+  "data": {
+    "texture": "walls/vertical.png"
+  }
+},
+{
+  "cid": 2,
+  "aoid": "316457969247608:1744666662565770600",
+  "component_type": "Internal_Component",
+  "internal_component_type": "Box_Collider",
+  "data": {
+    "size": {
+      "X": 0.2482515573501587,
+      "Y": 0.9628806710243225
+    },
+    "offset": {
+      "X": 0.0055318474769592,
+      "Y": -0.0185596644878387
+    }
+  }
+}

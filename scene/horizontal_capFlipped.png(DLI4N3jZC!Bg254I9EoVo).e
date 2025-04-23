@@ -1,0 +1,28 @@
+13
+893353197569
+893413559776834 1744836452209034600
+{
+  "name": "horizontal_capFlipped.png",
+  "local_enabled": true,
+  "local_position": {
+    "X": 0.4987131953239441,
+    "Y": -0.0005792379379272
+  },
+  "local_rotation": 0,
+  "local_scale": {
+    "X": 1,
+    "Y": 1
+  },
+  "next_sibling": "893413559735419:1744836452209022400",
+  "parent": "893413559602730:1744836452208984300"
+},
+{
+  "cid": 1,
+  "aoid": "893413560628280:1744836452209285100",
+  "component_type": "Internal_Component",
+  "internal_component_type": "Sprite_Renderer",
+  "data": {
+    "texture": "walls/horizontal_capFlipped.png",
+    "depth_offset": -4
+  }
+}
